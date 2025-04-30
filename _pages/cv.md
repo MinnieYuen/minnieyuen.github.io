@@ -6,9 +6,7 @@ permalink: /cv/
 
 ## Research Interests
 
-Worldwide language contact phenomena,  
-cross-linguistic variations, morphosyntax,  
-universal grammar properties, and sociolinguistics
+Worldwide language contact phenomena, cross-linguistic variations, morphosyntax, universal grammar properties, Cantonese and sociolinguistics
 
 ## Contact
 
@@ -74,6 +72,14 @@ universal grammar properties, and sociolinguistics
 - *Sociative Causative Zing in Cantonese*  
   Linguistics and Asian Languages 2025, Poznan, Poland  
   (2025.03.16–17)
+
+- *Sociative Causative Zing in Cantonese*  
+  Workshop on Innovations in Cantonese Linguistics 7 (WICL-7 ), Provo, Utah, USA  
+  (2025.04.11–12)
+
+- *Classifier selections in the Cantonese-English bilingual variety and the role of little n*  
+  Invited Talk at the University of York, York, UK  
+  (2025.05.19)
 
 - *Morphosyntactic Analysis on Double Plurals in Cantonese-English*  
   International Conference on Language Contact, L’Aquila, Italy  

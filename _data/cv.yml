@@ -1,97 +1,95 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: "Contact"
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Email: [minnieyuen927@gmail.com](mailto:minnieyuen927@gmail.com)
+    - Location: Berlin, Germany
+    - LinkedIn: [minnie-pui-yee-yuen](https://linkedin.com/in/minnie-pui-yee-yuen)
+    - ResearchGate: [Pui_Yee_Yuen](https://researchgate.net/profile/Pui_Yee_Yuen)
+
+- title: "Research Interests"
+  type: list
+  contents:
+    - Worldwide language contact phenomena
+    - Cross-linguistic variations
+    - Morphosyntax
+    - Universal grammar properties
+    - Sociolinguistics
+
+- title: "Education"
+  type: time_table
+  contents:
+    - title: Ph.D. in General Linguistics
+      institution: Humboldt Universität zu Berlin & ZAS
+      year: 2023–Present
+      description:
+        - Dissertation: *Code-Switching within an Integrated Competence*
+        - Supervisor: Prof. Dr. Dr. h.c. Artemis Alexiadou
+    - title: M.A. in Linguistics
+      institution: Humboldt Universität zu Berlin
+      year: 2020–2022
+      description:
+        - Grade: 1.2
+        - Thesis: *Periphrastic Causatives in Cantonese*
+    - title: B.A. in English & German Linguistics
+      institution: HU Berlin & Siegen Universität
+      year: 2017–2020
+      description:
+        - Grade: 1.5
+        - Thesis: *Mixing Verb Use in Cantonese-English*
+    - title: BBA (Hons) in Accountancy
+      institution: City University of Hong Kong
+      year: 2012–2015
+      description:
+        - CGPA: 3.57 (German equivalent: 1.6)
+
+- title: "Experience"
+  type: time_table
+  contents:
+    - title: Lab Manager
+      institution: LeibnizDream Project, ZAS
+      year: 2023–2024
+      description:
+        - Supervised research assistants
+        - Managed studies and data collection
+    - title: Student Research Assistant
+      institution: Humboldt Universität zu Berlin
+      year: 2021–2023
+      description:
+        - Corpus work (CHILDES), experiment design (Ibex), and analysis
+    - title: Voluntary Research Assistant
+      institution: MAIN Project, PolyU HK
+      year: 2021–2023
+      description:
+        - Transcribed Cantonese children’s data (CLAN format)
+    - title: Research Intern
+      institution: HU Berlin
+      year: 2019
+      description:
+        - Analyzed English verb usage in Cantonese discourse
+
+- title: "Awards"
+  type: list
+  contents:
+    - Elsa-Neumann Scholarship (NaFöG), Das Landes Berlin, 2023–Present
+
+- title: "Presentations"
+  type: list
+  contents:
+    - *Sociative Causative Zing in Cantonese*, Linguistics and Asian Languages 2025, Poznan, Poland
+    - *Sociative Causative Zing in Cantonese*, The 7th Workshop on Innovations in Cantonese Linguistics (WICL-7), Provo, Utah, USA
+    - *Classifier selections in the Cantonese-English bilingual variety and the role of little n*, Invited Talk at the University of York, York, UK
+    - *Double Plurals in Cantonese-English*, Language Contact Conf. 2025, L’Aquila, Italy
+    - Attended: JSPS Core2Core (2024), Plural Marking Conf. (2022), Austronesian Conf. (2022), WICL 6 & 5
+
+- title: "Skills"
+  type: list
+  contents:
+    - LaTeX, R, Ibex, CLAN
+    - MS Office, Photoshop (basic)
+
+- title: "Languages"
+  type: list
+  contents:
+    - Cantonese (native)
+    - English, Mandarin (proficient)
+    - German (C1), Japanese (B2), Spanish (B1)

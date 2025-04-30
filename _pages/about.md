@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='[#](https://www.leibniz-zas.de/en/personen/details/yuen-pui-yee/pui-yee-yuen)'>Affiliations</a>. Address. <a href='[#](minnieyuen927@gmail.com)'>Contact</a>. Trust the process.
 
 profile:
   align: right
@@ -26,6 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+Doctoral research student on linguistics: morphosyntax, universal grammar, sociolinguistics, Cantonese, crosslinguistic variation, language mixing, language contact.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <'(https://www.leibniz-zas.de/en/personen/details/yuen-pui-yee/pui-yee-yuen)'>Affiliations</a>. Address. <'(minnieyuen927@gmail.com)'>Contact</a>. Trust the process.
+subtitle: <a href="https://www.leibniz-zas.de/en/personen/details/yuen-pui-yee/pui-yee-yuen">Affiliations</a>. Address. <a href="minnieyuen927@gmail.com">Contact</a>. Trust the process.
 
 profile:
   align: right

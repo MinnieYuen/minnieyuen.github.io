@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.leibniz-zas.de/en/personen/details/yuen-pui-yee/pui-yee-yuen" target="_blank">Affiliations</a>. Berlin, Germany. <a href="minnieyuen927@gmail.com" target="_blank">Contact</a>. Trust the process.
+subtitle: <a href="https://www.leibniz-zas.de/en/personen/details/yuen-pui-yee/pui-yee-yuen" target="_blank">Affiliations</a>. Berlin, Germany. <a href="mailto:minnieyuen927@gmail.com" target="_blank">Contact</a>. Trust the process.
 
 profile:
   align: right

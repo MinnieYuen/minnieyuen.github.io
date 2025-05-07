@@ -1,7 +1,8 @@
 - title: "Contact"
   type: list
   contents:
-    - Email: [minnieyuen927@gmail.com](mailto:minnieyuen927@gmail.com)
+    - label: "Email"
+      value: "mailto:minnieyuen927@gmail.com"
     - Location: Berlin, Germany
     - LinkedIn: [minnie-pui-yee-yuen](https://linkedin.com/in/minnie-pui-yee-yuen)
     - ResearchGate: [Pui_Yee_Yuen](https://researchgate.net/profile/Pui_Yee_Yuen)
